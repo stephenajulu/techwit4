@@ -16,12 +16,12 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "6 rip carl Avenue CA 90733"
-author = "Themefisher"
+author = "TechWit Ke"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
-description = "This is meta description"
+description = "Your Source of Quality Tech Content"
 email = "exmaple@ymail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
